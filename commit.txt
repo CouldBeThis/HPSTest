@@ -1,11 +1,8 @@
-Troubleshooting [13]
-
-* add creation of page displaying time of build to repo
-* should appear at https://couldbethis.github.io/HPSTest/posts/date/
+Troubleshooting [14]
 
   config.toml:
     baseURL = "https://couldbethis.github.io/HPSTest/"
-    theme = "ananke" # unchanged from previous
+    # theme = "ananke"
 
     hugophotoswipe.yml:
             markdown_dir: ../../docs/galleries/
