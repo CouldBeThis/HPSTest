@@ -1,0 +1,23 @@
+Troubleshooting #00 BASELINE
+
+config.toml:
+  baseURL = "https://couldbethis.github.io/HPStest"
+
+hugophotoswipe.yml:
+	markdown_dir: ../../docs/galleries/
+	output_dir: ../../static/pics/
+output_format: jpg
+photo_dir: photos
+smartcrop_js_path:
+	url_prefix: HPSTest/pics/
+
+Preparation:
+- hps clean
+- delete
+	- static/pics/
+	- docs/ 
+	- album.yml.bak
+- revert album.yml files to original state
+- delete hps generated files
+
+command run from hugo root to build:
