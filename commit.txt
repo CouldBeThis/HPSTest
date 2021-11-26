@@ -1,4 +1,15 @@
-Troubleshooting [00] BASELINE NO BUILD
+Troubleshooting [01] BASELINE BUILD
+
+config.toml:
+  baseURL = "https://couldbethis.github.io/HPStest"
+
+hugophotoswipe.yml:
+	markdown_dir: ../../docs/galleries/
+	output_dir: ../../static/pics/
+output_format: jpg
+photo_dir: photos
+smartcrop_js_path:
+	url_prefix: HPSTest/pics/
 
 Preparation:
 - hps clean
@@ -7,3 +18,7 @@ Preparation:
 	- docs/ 
 	- album.yml.bak
 - revert album.yml files to original state
+
+command run from hugo root to build:
+
+cd src/photos && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
