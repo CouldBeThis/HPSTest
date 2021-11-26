@@ -1,10 +1,7 @@
-Troubleshooting [05] 
-
-* change = plain text post should NOT be a draft
-* all else the same
+Troubleshooting [06] 
 
 config.toml:
-  baseURL = "https://couldbethis.github.io/HPStest"
+  * baseURL = "https://couldbethis.github.io/HPStest/"
   theme = "ananke" # unchanged from previous
 
 hugophotoswipe.yml:
@@ -17,4 +14,4 @@ smartcrop_js_path:
 
 command run from hugo root to build:
 
-trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
+trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push && git log
