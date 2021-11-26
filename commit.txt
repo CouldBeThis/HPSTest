@@ -1,7 +1,7 @@
-Troubleshooting [02] 
+Troubleshooting [03] 
 
 config.toml:
-  # baseURL = "https://couldbethis.github.io/HPStest"
+  baseURL = "https://couldbethis.github.io/HPStest"
   theme = "ananke" # unchanged from previous
 
 hugophotoswipe.yml:
@@ -10,7 +10,7 @@ hugophotoswipe.yml:
 output_format: jpg
 photo_dir: photos
 smartcrop_js_path:
-	url_prefix: HPSTest/pics/
+	url_prefix: /HPSTest/pics/
 
 command run from hugo root to build:
 
