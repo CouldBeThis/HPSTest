@@ -1,6 +1,6 @@
-Troubleshooting [10]
+Troubleshooting [11]
 
-* Fix typo in config.toml and re-add all the HPS files
+* restore filename to layouts/index.html
 
   config.toml:
     baseURL = "https://couldbethis.github.io/HPSTest/"
@@ -16,5 +16,4 @@ Troubleshooting [10]
 
     command run from hugo root to build:
 
-    trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo &
-& git st && git add -A && git commit -F "commit.txt" && git push && git log
+trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push && git log

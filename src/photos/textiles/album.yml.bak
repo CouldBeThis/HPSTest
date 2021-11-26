@@ -6,4 +6,38 @@ properties:
 copyright:
 coverimage: Textile_print_by_Leon_Bakst_02.jpg
 creation_time: "2021-11-26T01:44:25-05:00"
-modification_time: "2021-11-26T06:48:50-05:00"
+modification_time: "2021-11-26T08:41:28-05:00"
+
+photos:
+- file: Textile_print_by_Leon_Bakst_01.jpg
+  name: Textile_print_by_Leon_Bakst_01.jpg
+  alt:
+  caption:
+
+- file: Textile_print_by_Leon_Bakst_02.jpg
+  name: Textile_print_by_Leon_Bakst_02.jpg
+  alt:
+  caption:
+
+- file: Textile_print_by_Leon_Bakst_03.jpg
+  name: Textile_print_by_Leon_Bakst_03.jpg
+  alt:
+  caption:
+
+- file: Textile_print_by_Leon_Bakst_04.jpg
+  name: Textile_print_by_Leon_Bakst_04.jpg
+  alt:
+  caption:
+
+hashes:
+- file: Textile_print_by_Leon_Bakst_01.jpg
+  hash: sha256:0184e7e948441b4b7096af5a3fe230007df9a92a29906ae720ab1b0d601403b1
+
+- file: Textile_print_by_Leon_Bakst_02.jpg
+  hash: sha256:04c72bb53398e1eee82151f0d31a3d99d7bd4d421171f638abb69d5e98415adc
+
+- file: Textile_print_by_Leon_Bakst_03.jpg
+  hash: sha256:0d9cb089f973c3e26102f10534be0103e2f0ef846b8579ebb6da5effe681ce94
+
+- file: Textile_print_by_Leon_Bakst_04.jpg
+  hash: sha256:e83c0e5ca583cbac38375ff3e86650526ccdb80b3e62b9538f6323a5ab23d036
