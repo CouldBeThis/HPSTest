@@ -1,19 +1,7 @@
-Troubleshooting [17]
+Troubleshooting [18]
 
-* layouts/index.html: remove hard-coded CSS in <main class="container"> 
-* add a bunch of emojis to facilitate troubleshooting
-
-  config.toml:
-    baseURL = "https://couldbethis.github.io/HPSTest/"
-    theme = "ananke"
-
-    hugophotoswipe.yml:
-            markdown_dir: ../../content/galleries/
-            output_dir: ../../static/pics/
-    output_format: jpg
-    photo_dir: photos
-    smartcrop_js_path:
-            url_prefix: /HPSTest/pics/
+* layouts/index.html: remove emoji-based troubleshooting
+* consider this working and done.
 
     command run from hugo root to build:
 
