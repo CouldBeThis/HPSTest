@@ -1,0 +1,20 @@
+Troubleshooting [10]
+
+* Fix typo in config.toml and re-add all the HPS files
+
+  config.toml:
+    baseURL = "https://couldbethis.github.io/HPSTest/"
+    theme = "ananke" # unchanged from previous
+
+    hugophotoswipe.yml:
+            markdown_dir: ../../docs/galleries/
+            output_dir: ../../static/pics/
+    output_format: jpg
+    photo_dir: photos
+    smartcrop_js_path:
+            url_prefix: /HPSTest/pics/
+
+    command run from hugo root to build:
+
+    trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo &
+& git st && git add -A && git commit -F "commit.txt" && git push && git log

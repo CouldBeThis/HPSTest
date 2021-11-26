@@ -1,5 +1,5 @@
 baseURL = "https://couldbethis.github.io/HPSTest/"
 languageCode = 'en-us'
 title = "HPSTest"
-theme = "zenzen"
+theme = "ananke"
 publishDir = "docs"
