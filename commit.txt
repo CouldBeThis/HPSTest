@@ -1,4 +1,7 @@
-Troubleshooting [03] 
+Troubleshooting [04] 
+
+* change = delete layouts/index.html (rename to zindex.html)
+* all else the same
 
 config.toml:
   baseURL = "https://couldbethis.github.io/HPStest"
