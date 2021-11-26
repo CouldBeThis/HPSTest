@@ -11,10 +11,10 @@ dirname_thumb: thumb
 jpeg_optimize: False
 jpeg_progressive: False
 jpeg_quality: 75
-markdown_dir: ../../content/galleries/
+markdown_dir: ../../docs/galleries/
 output_dir: ../../static/pics/
 output_format: jpg
 photo_dir: photos
 smartcrop_js_path:
-url_prefix: /pics/
+url_prefix: HPSTest/pics/
 use_smartcrop_js: False
