@@ -6,4 +6,38 @@ properties:
 copyright:
 coverimage: Gyosho_Tokaido.jpg
 creation_time: "2021-11-26T02:05:10-05:00"
-modification_time: "2021-11-26T03:54:32-05:00"
+modification_time: "2021-11-26T05:22:37-05:00"
+
+photos:
+- file: Gyosho_Tokaido.jpg
+  name: Gyosho_Tokaido.jpg
+  alt:
+  caption:
+
+- file: Reisho_Tokaido.jpg
+  name: Reisho_Tokaido.jpg
+  alt:
+  caption:
+
+- file: tot_Chiriyu-Rijksmuseum_RP-P-1956-806.jpeg
+  name: tot_Chiriyu-Rijksmuseum_RP-P-1956-806.jpeg
+  alt:
+  caption:
+
+- file: village.jpg
+  name: village.jpg
+  alt:
+  caption:
+
+hashes:
+- file: Gyosho_Tokaido.jpg
+  hash: sha256:b5df092a51d1e6185af268151400aa47f5bdb3c24a1423ea19d9f8f4c33bb475
+
+- file: Reisho_Tokaido.jpg
+  hash: sha256:fb1d9e910d62c4075fae9f7de80a32218fa6bcddf549bcbcf1d5279da37673da
+
+- file: tot_Chiriyu-Rijksmuseum_RP-P-1956-806.jpeg
+  hash: sha256:5db8bb0be5c6c070e9d0032f7b17cdadfd6df72524d2a8e9403641baadb0f633
+
+- file: village.jpg
+  hash: sha256:28c041e3b6eea5b359af9e4da6ee3b088fff02ae490bf294f501459035aa2d6b

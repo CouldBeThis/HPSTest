@@ -1,7 +1,8 @@
-Troubleshooting [01] BASELINE BUILD
+Troubleshooting [02] 
 
 config.toml:
-  baseURL = "https://couldbethis.github.io/HPStest"
+  # baseURL = "https://couldbethis.github.io/HPStest"
+  theme = "ananke" # unchanged from previous
 
 hugophotoswipe.yml:
 	markdown_dir: ../../docs/galleries/
@@ -11,14 +12,6 @@ photo_dir: photos
 smartcrop_js_path:
 	url_prefix: HPSTest/pics/
 
-Preparation:
-- hps clean
-- delete
-	- static/pics/
-	- docs/ 
-	- album.yml.bak
-- revert album.yml files to original state
-
 command run from hugo root to build:
 
-cd src/photos && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
+trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
