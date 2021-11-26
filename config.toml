@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://couldbethis.github.io/HPStest"
+languageCode ="en-us"
+title = "HPSTest"
+publishDir = "docs"
+# theme = "ananke"
