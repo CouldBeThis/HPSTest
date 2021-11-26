@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on HPSTest</title>
-    <link>https://couldbethis.github.io/HPSTest/posts/</link>
-    <description>Recent content in Posts on HPSTest</description>
+    <title>HPSTest</title>
+    <link>https://couldbethis.github.io/HPSTest/</link>
+    <description>Recent content on HPSTest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Nov 2021 07:36:15 -0500</lastBuildDate><atom:link href="https://couldbethis.github.io/HPSTest/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Nov 2021 07:36:15 -0500</lastBuildDate><atom:link href="https://couldbethis.github.io/HPSTest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Some stuff about trackballs</title>
       <link>https://couldbethis.github.io/HPSTest/posts/about-trackballs/</link>
@@ -18,12 +18,30 @@ The trackball was invented as part of a post-World War II-era radar plotting sys
     </item>
     
     <item>
+      <title>Textile prints by Leon Bakst</title>
+      <link>https://couldbethis.github.io/HPSTest/galleries/textiles/</link>
+      <pubDate>Thu, 25 Nov 2021 23:53:17 -0500</pubDate>
+      
+      <guid>https://couldbethis.github.io/HPSTest/galleries/textiles/</guid>
+      <description>             </description>
+    </item>
+    
+    <item>
+      <title>Utagawa Hiroshige&#39;s Narumi</title>
+      <link>https://couldbethis.github.io/HPSTest/galleries/narumi/</link>
+      <pubDate>Tue, 07 Feb 2017 23:14:55 -0500</pubDate>
+      
+      <guid>https://couldbethis.github.io/HPSTest/galleries/narumi/</guid>
+      <description>             </description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://couldbethis.github.io/HPSTest/posts/date/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://couldbethis.github.io/HPSTest/posts/date/</guid>
-      <description>Fri 26 Nov 2021 10:01:11 EST</description>
+      <description>Fri 26 Nov 2021 09:44:12 EST</description>
     </item>
     
   </channel>
