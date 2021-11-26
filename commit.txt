@@ -1,6 +1,6 @@
-Troubleshooting [04] 
+Troubleshooting [05] 
 
-* change = delete layouts/index.html (rename to zindex.html)
+* change = plain text post should NOT be a draft
 * all else the same
 
 config.toml:
