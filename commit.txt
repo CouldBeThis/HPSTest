@@ -1,6 +1,7 @@
-Troubleshooting [12]
+Troubleshooting [13]
 
-* REVERT filename to layouts/zindex.html (to break it)
+* add creation of page displaying time of build to repo
+* should appear at https://couldbethis.github.io/HPSTest/posts/date/
 
   config.toml:
     baseURL = "https://couldbethis.github.io/HPSTest/"
@@ -16,4 +17,4 @@ Troubleshooting [12]
 
     command run from hugo root to build:
 
-trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
+echo $(date) > content/posts/date.html && trash docs && trash static/pics && cd src/photos && hps clean && hps --fast update && cd ../.. && hugo && git st && git add -A && git commit -F "commit.txt" && git push
