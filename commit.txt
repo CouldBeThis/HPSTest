@@ -1,6 +1,7 @@
-Troubleshooting [16]
+Troubleshooting [17]
 
-* Reenable layouts/index.html 
+* layouts/index.html: remove hard-coded CSS in <main class="container"> 
+* add a bunch of emojis to facilitate troubleshooting
 
   config.toml:
     baseURL = "https://couldbethis.github.io/HPSTest/"
