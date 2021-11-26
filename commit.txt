@@ -1,6 +1,6 @@
-Troubleshooting [07] 
+Troubleshooting [08] 
 
-* delete hugophotswipe ALL
+* change text of my-first-post
 
 config.toml:
   baseURL = "https://couldbethis.github.io/HPStest/"
