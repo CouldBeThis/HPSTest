@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HPSTest</title>
-    <link>/posts/</link>
+    <link>https://couldbethis.github.io/HPStest/posts/</link>
     <description>Recent content in Posts on HPSTest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Nov 2021 07:36:15 -0500</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://couldbethis.github.io/HPStest/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Some stuff about trackballs</title>
-      <link>/posts/about-trackballs/</link>
+      <link>https://couldbethis.github.io/HPStest/posts/about-trackballs/</link>
       <pubDate>Fri, 26 Nov 2021 07:36:15 -0500</pubDate>
-      <guid>/posts/about-trackballs/</guid>
+      <guid>https://couldbethis.github.io/HPStest/posts/about-trackballs/</guid>
       <description>&lt;p&gt;source: &lt;a href=&#34;https://wikiless.org/wiki/Trackball&#34;&gt;Trackball - Wikipedia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The trackball was invented as part of a post-&lt;a href=&#34;https://wikiless.org/wiki/World_War_II?lang=en&#34;&gt;World War II&lt;/a&gt;-era radar plotting system named &lt;a href=&#34;https://wikiless.org/wiki/Comprehensive_Display_System?lang=en&#34;&gt;Comprehensive Display System&lt;/a&gt; (CDS) by &lt;a href=&#34;https://wikiless.org/wiki/Ralph_Benjamin?lang=en&#34;&gt;Ralph Benjamin&lt;/a&gt; when working for the British &lt;a href=&#34;https://wikiless.org/wiki/Royal_Navy?lang=en&#34;&gt;Royal Navy&lt;/a&gt; Scientific Service.[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Hill_2005_Benjamin-2&#34;&gt;2]&lt;/a&gt;[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Copping_2013_Benjamin-3&#34;&gt;3]&lt;/a&gt; Benjamin&amp;rsquo;s project used &lt;a href=&#34;https://wikiless.org/wiki/Analog_computer?lang=en&#34;&gt;analog computers&lt;/a&gt; to calculate the future position of target aircraft based on several initial input points provided by a user with a &lt;a href=&#34;https://wikiless.org/wiki/Joystick?lang=en&#34;&gt;joystick&lt;/a&gt;. Benjamin felt that a more elegant input device was needed and invented a &lt;em&gt;ball tracker&lt;/em&gt;[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Hill_2005_Benjamin-2&#34;&gt;2]&lt;/a&gt;[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Copping_2013_Benjamin-3&#34;&gt;3]&lt;/a&gt; system called the &lt;em&gt;roller ball&lt;/em&gt;[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Hill_2005_Benjamin-2&#34;&gt;2]&lt;/a&gt; for this purpose in 1946.[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Hill_2005_Benjamin-2&#34;&gt;2]&lt;/a&gt;[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Copping_2013_Benjamin-3&#34;&gt;3]&lt;/a&gt; The device was patented in 1947,[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Hill_2005_Benjamin-2&#34;&gt;2]&lt;/a&gt; but only a prototype using a metal ball rolling on two rubber-coated wheels was ever built[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Copping_2013_Benjamin-3&#34;&gt;3]&lt;/a&gt; and the device was kept as a military secret.[&lt;a href=&#34;https://wikiless.org/wiki/Trackball#cite_note-Copping_2013_Benjamin-3&#34;&gt;3]&lt;/a&gt; Production versions of the CDS used joysticks.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://29dyu83qfwf325hqnq40ojm0-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Image-8-2-e1507722490754.png&#34; alt=&#34;Custom E38 Module&#34;&gt;&lt;/p&gt;
