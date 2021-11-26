@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+# baseURL = "https://couldbethis.github.io/HPStest/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "HPSTest"
 theme = "zenzen"
+publishDir = "docs"
