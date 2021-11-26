@@ -1,4 +1,4 @@
-baseURL = "https://couldbethis.github.io/HPStest/"
+baseURL = "https://couldbethis.github.io/HPSTest/"
 languageCode = 'en-us'
 title = "HPSTest"
 theme = "zenzen"
